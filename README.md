@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there <br><br>I'm a Flutter Developer passionate about building modern mobile applications and creating smooth user experiences.<br><br>About Me:<br><br>🔭 I’m currently working on Flutter projects and building real-world applications  <br><br> I’m looking to collaborate on mobile app development and open-source projects  <br><br> I’m interested in connecting with developers and sharing ideas  <br><br> I’m currently exploring advanced app architecture, performance optimization, and scalable solutions  <br><br>💬 Ask me about Flutter, Dart, State Management and REST APIs  <br><br>⚡ Fun fact: I enjoy solving tricky coding problems late at night 
 
 
