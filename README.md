@@ -8,12 +8,6 @@ Hi there <br><br>I'm a Flutter Developer passionate about building modern mobile
 #  Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=salihsarang&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=salihsarang&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=salihsarang&icon=0&color=0)](https://visitcount.itsvg.in)
 
